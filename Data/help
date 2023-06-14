@@ -1,0 +1,28 @@
+**Help**
+
+Here are some commands you can use with this bot:
+
+-> **bot**: This command toggles the bot. Example usage: `bot [arguments]`.
+
+**ARGUMENTS**
+     **help**: This command outputs the help section. Example usage: `bot help`.
+
+     **hello**: This command is for a simple greeting. Example usage: `bot hello`.
+
+     **roll**: This command rolls a dice. Example usage: `bot roll`.
+
+     **toss**: This command tosses a coin. Example usage: `bot toss`.
+
+     **contact**: This command retrieves contact information of a person from its database:
+        Example usage: `bot contact [name]`.
+
+     **search**: This command runs a google search. Example usage: `bot search [query]`.
+
+     **calculate**: This command performs simple calculations (+, -, *, /, %). Example usage:
+        `bot calculate [[x][operator][y]]`.
+
+type "?" before argument for private reply. Example usage: `bot ?help`.
+
+For more information about each command, including available arguments and usage examples, please refer to the bot's documentation or ask the bot for specific help on each command.
+
+If you have any questions or need further assistance, feel free to ask in the server's support channel.
